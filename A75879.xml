@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The address of John Dryden, laureat to His Highness, the Prince of Orange</title>
+            <author>Shadwell, Thomas, 1642?-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75879</idno>
+            <idno type="STC">Wing A544B</idno>
+            <idno type="STC">ESTC R175341</idno>
+            <idno type="EEBO-CITATION">45504676</idno>
+            <idno type="OCLC">ocm 45504676</idno>
+            <idno type="VID">171570</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75879)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171570)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2577:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The address of John Dryden, laureat to His Highness, the Prince of Orange</title>
+                  <author>Shadwell, Thomas, 1642?-1692.</author>
+                  <author>Dryden, John, 1631-1700.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire in verse.</note>
+                  <note>Attributed to Thomas Shadwell. Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in: Dulwich College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dryden, John, 1631-1700 --  Humor.</term>
+               <term>William --  III, --  King of England, 1650-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:171570:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>The Addreſs OF <hi>John Dryden,</hi> Laureat, To His Highneſs the Prince of <hi>ORANGE.</hi>
+            </head>
+            <lg>
+               <l>IN all th' Hoſannah's, our whole World's Applauſe,</l>
+               <l>Illuſtrious Champion of our Church and Laws;</l>
+               <l>Accept, Great <hi>NASSAW,</hi> from unworthy Me,</l>
+               <l>Amongſt th' Adoring Crowd, a bended Knee:</l>
+               <l>Nor Scruple<g ref="char:punc">▪</g> Sir, to hear my Ecchoing Lyre,</l>
+               <l>Strung, Tun'd, and Joyn'd in th' Univerſal Quire;</l>
+               <l>From my ſuſpected Mouth, Thy Glories told,</l>
+               <l>A known Out lyer from the Engliſh <hi>Fold,</hi>
+               </l>
+               <l>
+                  <hi>Romes</hi> Votary, the Proteſtant ſworn <hi>Foe—</hi>
+               </l>
+               <l>
+                  <hi>Rome!</hi>—my Religion, half an hour ago.</l>
+               <l>My Roman Dagon's by thy Arm or'ethrown;</l>
+               <l>And now my Proſelyted Soul's Thy own.</l>
+               <l>Thy Glory would convert that Infidel,</l>
+               <l>That had whole Ages ſtood Immoveable.</l>
+               <lg>
+                  <l>No wonder then Thou canſt Affections ſway</l>
+                  <l>In Tender Breaſts like mine, ſuch pliant Clay,</l>
+                  <l>As could even bear new Moulding twice a day.</l>
+               </lg>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:171570:2"/>
+               <!-- PDF PAGE 5 -->
+               <l>Nor doubt thy Convert True, I who could raiſe</l>
+               <l>Immortal Trophies, even to <hi>CROMWEL</hi>'s Praiſe:</l>
+               <l>I who my Muſes Inſant Quill could Fledge,</l>
+               <l>VVith high-ſung Murder, Treaſon, Sacriledge:</l>
+               <lg>
+                  <l>A Martyr'd Monarch, and an Enſlav'd Nation,</l>
+                  <l>A Kingdom's ſhame, the whole VVorld's Execration,</l>
+                  <l>By me Tranſlated even t'a Conſtellation.</l>
+               </lg>
+               <l>If this, all this, I could unbluſhing Write;</l>
+               <l>Fear not that Pen that ſhall Thy Praiſe Endite:</l>
+               <l>VVhere High-Born-Blood my Adoration draws,</l>
+               <l>Exalted Glory, an Unblemiſht Cauſe.</l>
+               <l>A Theme ſo all Divine, my Muſe ſhall wing,</l>
+               <l>VVhat is't, Great Prince, for Thee I will not ſing?</l>
+               <l>No bounds ſhall ſtop my <hi>Pegaſean</hi> flight,</l>
+               <l>I'll ſpot my Hinde, and waſh my Panther white.</l>
+               <lg>
+                  <l>Againſt the ſeven proud Hills I'll Muſter all</l>
+                  <l>My keen Poetick Rage, and Rhime with all</l>
+                  <l>The <unclear>Vengeance</unclear> of a ſecond <hi>Hannibal:</hi>
+                  </l>
+               </lg>
+               <l>The Papal Chair by dint of Verſe o'erturn;</l>
+               <l>My Moulten Gods, like <hi>Iſraels</hi> Calf, I'll burn;</l>
+               <l>Copes, Croſiers, all the Trumpery of <hi>Rome,</hi>
+               </l>
+               <l>Doom'd to Great <hi>Wallers</hi> Blazing Hecatomb:</l>
+               <l>I'll pound my Beads to duſt, and wear no more</l>
+               <l>Thoſe <hi>Pagan</hi> Bracelets of the Scarlet VVhore.</l>
+               <l>But whether am I rapt! for, oh! my Fears!</l>
+               <l>I bend beneath the weight of ſixty Years:</l>
+               <l>Low runs my Glaſs, more low my Aged Muſe,</l>
+               <l>And to my Will, alas, does Power refuſe.</l>
+               <l>But if, Great Prince, my feeble ſtrength ſhall faile;</l>
+               <l>This Theme I'll to my Succeſſors entayle:</l>
+               <l>My Heirs th' Unfiniſht Subject ſhall Compleat.</l>
+               <l>I have a Son, and he, by all that' Great;</l>
+               <l>That very Son (and truſt my Oaths; I Swore</l>
+               <l>As much to my Great Maſter <hi>JAMES</hi> before)</l>
+               <l>
+                  <pb n="3" facs="tcp:171570:2"/>
+                  <!-- PDF PAGE 5 -->
+Shall by his Sire's Example, <hi>Rome</hi> renounce;</l>
+               <l>For he, young Stripling, yet has turn'd but once.</l>
+               <l>That <hi>Oxford</hi> Nurſling-plant, that hopeful Boy,</l>
+               <l>His Fathers, and the once <hi>Ignatian</hi> Joy,</l>
+               <l>Deſign'd for a new <hi>Bellarmine Goliah</hi>
+               </l>
+               <l>Under the great <hi>Gamaliel, Obadiah,</hi>
+               </l>
+               <l>That Youth, great Sir, ſhall your Fames Trumpet blow,</l>
+               <l>And ſoar, when my dull Wing ſhall flag below:</l>
+               <lg>
+                  <l>A Proteſtant <hi>Herculean</hi> Column ſtand,</l>
+                  <l>When I, a poor weak Pillar of the Land,</l>
+                  <l>Now growing old, am crumbling into Sand.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But hark; methinks I hear the buzzing Crowd</l>
+               <l>At my Converſion dare to laugh aloud.</l>
+               <l>Let Cens'ring Fopps, and ſnarling Envy grin,</l>
+               <l>Tickled and pleas'd with my <hi>Camelion</hi> Skin.</l>
+               <l>No; ſenſleſs Fools, my true Dimenſions ſcan,</l>
+               <l>And know the <hi>Laureat</hi>'s a <hi>Leviathan.</hi>
+               </l>
+               <l>Now <hi>Tyburs</hi> Mouth ebbs low, and on that ſhore</l>
+               <l>My rowling Bulk, alas, can ſport no more:</l>
+               <l>Down the full Tide I ſcowr, to take a looſe</l>
+               <l>In the more ſwelling Surge at <hi>H<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bver-Sluys.</hi>
+               </l>
+               <l>Let chatt'ring <hi>Daws,</hi> and every ſenſleſs <hi>Widgeon,</hi>
+               </l>
+               <l>Their deſcant paſs on that great Name, <hi>Religion;</hi>
+               </l>
+               <l>Religion, by true Politician Rules,</l>
+               <l>The Wiſe Man's ſtrength, and the weak-ſide of Fools.</l>
+            </lg>
+            <lg>
+               <l>For we, who Godlineſs for Gain ſupport,</l>
+               <l>Heav'ns Votaries for Candidates at Court,</l>
+               <l>Make our Church walls, our <hi>Rampart, Sconce</hi> &amp; <hi>Fort.</hi>
+               </l>
+            </lg>
+            <l>Our <hi>Maſſes, Dirges, Veſpers, Oriſons;</hi>
+            </l>
+            <l>Our <hi>Counter-ſcarps,</hi> our <hi>Ravelins,</hi> and <hi>Half-Moons.</hi>
+            </l>
+            <lg>
+               <l>And now our <hi>Avemary</hi>'s put to th' Rout,</l>
+               <l>And from that <hi>Baſtion,</hi> I am beaten out;</l>
+               <l>I'm but retiring to a new Redoubt</l>
+            </lg>
+            <lg>
+               <l>Why ſhould I bluſh to turn, when my defence</l>
+               <l>And Plea's ſo plain? For if <hi>Omnipotence</hi>
+               </l>
+               <l>
+                  <pb n="4" facs="tcp:171570:3"/>
+                  <!-- PDF PAGE 6 -->
+Beth' higheſt Attribute that Heaven can boaſt;</l>
+               <l>That's the tru'ſt Church that Heaven reſembles moſt.</l>
+               <l>The Tables then are turn'd, and 'tis confeſt,</l>
+               <l>The ſtrongeſt and the mightieſt is the beſt.</l>
+               <l>In all my changes then, I'm o'th' right ſide;</l>
+               <l>And by the ſame great Reaſon juſtifi'd;</l>
+               <l>When the bold <hi>Creſcent</hi> late Attacqu'd the Croſs,</l>
+               <l>Reſolv'd the Empire of the World t'ingroſs,</l>
+               <l>Had tottering <hi>Vienna</hi>'s Walls but fail'd,</l>
+               <l>And <hi>Turkey</hi> over <hi>Chriſtendom</hi> prevail'd:</l>
+               <l>Long, long e'er this, I had paſt the <hi>Dardanello,</hi>
+               </l>
+               <l>And ſat the mighty <hi>Mahomets</hi> Hayl-fellow:</l>
+               <l>Quitted my duller Hopes, the poor Renown</l>
+               <l>Of <hi>Eaton</hi> Colledge, or a <hi>Dublin</hi> Gown;</l>
+               <l>And commenc'd Graduate in the great <hi>Divan,</hi>
+               </l>
+               <l>Had raign'd a more Immortal <hi>Muſſulman.</hi>
+               </l>
+               <l>No Art, Pain, Labour, toyl's too much, t' aſſail</l>
+               <l>Heavens Towry Battlement; my Heaven I'd ſcale</l>
+               <l>Thro' all Religions, <hi>Church</hi> o'er <hi>Churches</hi> mounted,</l>
+               <l>More than the Rounds that <hi>Jacob's</hi> Ladder counted.</l>
+            </lg>
+            <lg>
+               <l>Has this ſtupendious Revolution paſt;</l>
+               <l>A change ſo quick, and I not turn as faſt?</l>
+               <l>Let boggling Conſcience ſhock the ſqueamiſh Fool,</l>
+               <l>Poor crazy Animals, whoſe Stomachs pule:</l>
+               <l>Shall ſcrup'lous Taſtes diſguſt their <hi>Paſchal,</hi> ſtickle</l>
+               <l>Whether true dreſt in Sowce, or Broth, or Pickle?</l>
+               <l>If <hi>Muſcadine</hi> runs low, I'm not ſo dull,</l>
+               <l>But I can pledge Salvation in <hi>Lambs-Wool.</hi>
+               </l>
+               <l>And if Salvation to one Church is bound,</l>
+               <l>So much the rather would I change all round.</l>
+               <l>Change then can be no fault: A whole Life long</l>
+               <l>Kept in one <hi>Church,</hi> may always be i'th' wrong.</l>
+               <l>But there where <hi>Conſcience</hi> circles in her flight,</l>
+               <l>We who 're of all ſides, muſt be once i'th' Right.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the Year, 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
